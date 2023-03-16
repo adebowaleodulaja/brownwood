@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Adebowale
-- 👀 I’m interested in all form of software development.
-- 🌱 Dart and Flutter Developer.
+- 👀 I’m interested in all form of software development
+- 🌱 Dart and Flutter Developer
+- 🌱 Java, Spring and SpringBoot Developer
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me brownwoodinc@hotmail.com
 
